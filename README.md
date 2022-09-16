@@ -26,7 +26,7 @@
     | filter f1 like "EXCLUDED_AS_COUNT"
     ```
     
-## References
+### References
 
 * Best Doc !! [What are my options to analyze AWS WAF logs stored in CloudWatch or Amazon S3?](https://aws.amazon.com/premiumsupport/knowledge-center/waf-analyze-logs-stored-cloudwatch-s3/?nc1=h_ls)
 * [How are the metrics and logs formatted for the count rule action in AWS WAF?](https://aws.amazon.com/premiumsupport/knowledge-center/waf-analyze-count-action-rules/)
