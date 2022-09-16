@@ -1,15 +1,15 @@
 ## How to analyze AWS WAF logs stored in CloudWatch
 
-1. Enable WAF ACL traffic logging to CloudWatch Logs log group
+1. Enable WAF web ACL traffic logging to CloudWatch Logs log group
     * Open the AWS WAF console
     * Click on the web ACL you want to enable logging
-    * Click on the tab Logging and Metrics
+    * Click on the tab "Logging and Metrics"
     * On Logging, click Edit
     * Select "CloudWatch Logs log group"
 
 <bl >
 
-2. Open the CloudWatch console, go to Logs Insights and select the log group for the WAF ACL
+2. Open the CloudWatch console, go to Logs Insights and select the log group for the WAF web ACL
 
 3. The following shows basic queries
 
