@@ -1,4 +1,4 @@
-# How to analyze AWS WAF logs stored in CloudWatch
+## How to analyze AWS WAF logs stored in CloudWatch
 
 1. Enable WAF ACL login to CloudWatch
 
